@@ -24,10 +24,7 @@
 - **Grid Building System** - Flexible placement system with architectural patterns
 - **Multiplayer Framework** - Cooperative gameplay solutions
 - **Performance Tools** - Optimization utilities for Unity projects
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShakhzodHD&show_icons=true&theme=dark&hide_border=true)
-
+  
 ## 🎯 Unity Asset Store
 Check out my published modules and tools on Unity Asset Store for production-ready solutions.
 
