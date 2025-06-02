@@ -1,6 +1,6 @@
-# 🎮 Lord Games | Unity Developer
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Lord%20Games&fontSize=90&fontAlignY=38&desc=Unity%20Developer%20%7C%20Technical%20Modules&descAlignY=51&descAlign=62)
 
-> **Crafting technical modules and architectural solutions for Unity developers**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&width=435&lines=Unity+Technical+Modules;Clean+Architecture+Solutions;Multiplayer+Frameworks;Performance+Optimization)](https://git.io/typing-svg)
 
 ## 🚀 What I Do
 - **Unity Technical Modules** - Production-ready solutions for common development challenges
