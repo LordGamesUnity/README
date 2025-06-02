@@ -26,7 +26,7 @@
 - **Performance Tools** - Optimization utilities for Unity projects
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LordGamesUnity&show_icons=true&theme=dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShakhzodHD&show_icons=true&theme=dark&hide_border=true)
 
 ## 🎯 Unity Asset Store
 Check out my published modules and tools on Unity Asset Store for production-ready solutions.
